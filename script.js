@@ -1,6 +1,6 @@
 //your code here
-.{
-	questions
+
+.questions{
 	background-color: #f8fffe;
 height: 50px;
 margin-top: 20px;
